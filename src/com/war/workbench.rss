@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Workbench</title>
+    <link>http://workbench.cadenhead.org/</link>
+    <description>Programming, publishing, and popes</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>His Majesty's Dragon by Naomi Novik</title>
+      <link>http://workbench.cadenhead.org/news/739</link>
+      <pubDate>Sat, 12 Oct 2019 13:12:45 -0400 </pubDate>
+      <guid isPermaLink="false">tag:cadenhead.org,2019:w.3787</guid>
+      <enclosure length="2498623" type="audio/mpeg"
+          url="http://mp3.cadenhead.org/3787.mp3" />
+    </item>
+    <item>
+      <title>Enter the TV Deadpool Contest </title>
+      <link>http://workbench.cadenhead.org/news/737</link>
+      <pubDate>Sat, 14 Sep 2019 17:17:38 -0400</pubDate>
+      <guid isPermaLink="false">tag:cadenhead.org,2019:w.3786</guid>
+    </item>
+    <item>
+      <title>I'm a ServiceNow Certified Application Developer</title>
+      <link>http://workbench.cadenhead.org/news/736</link>
+      <pubDate>Mon, 05 Aug 2019 19:21:25 -0400</pubDate>
+      <guid isPermaLink="false">tag:cadenhead.org,2019:w.3785</guid>
+    </item>
+  </channel>
+</rss>
+
