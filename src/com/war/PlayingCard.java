@@ -10,7 +10,7 @@ public class PlayingCard extends Card{
     //13 - king
     //14 - ace
     public PlayingCard() {
-
+    int a;
     }
 
     public PlayingCard(int value, int face) throws IncorrectValuePassedException {
